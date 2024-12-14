@@ -18,13 +18,8 @@ The objectives of this unit are to understand how to formulate a single predicto
 
 For analysis: A simple random sample (SRS) of 80 births from the 2001 North Carolina birth registry with variable columns renamed as ID_S, tgrams_S, and weeks_S.
 
-![image](https://github.com/user-attachments/assets/38a3979b-1856-4a0c-8b91-aea4e4f6401a)
-
-![image](https://github.com/user-attachments/assets/65f0d86d-89c4-4498-98e9-f174f36c33ca)
-
-![image](https://github.com/user-attachments/assets/651e28c1-9cbe-4187-96fe-5fc609d417ab)
-
-![image](https://github.com/user-attachments/assets/478a2283-5730-46c1-8fba-da3d3f678aa1)
+![image](https://github.com/user-attachments/assets/69ea1be1-bc5c-44cc-afa2-5b93a24fac70)
+![image](https://github.com/user-attachments/assets/cf2fb8e7-430c-4ca5-94fb-82c10cae5b3e)
 
 **Results and Discussion**
 
