@@ -6,7 +6,7 @@ The North Carolina State Center for Health Statistics and Howard W. Odum Institu
 
 **Objectives**
 
-The objectives of this unit are to understand how to formulate a single predictor linear regression model and to visualize that potential linear relationship. Additionally, this report will be able to compute and interpret the Grubbs to identify any potential outliers, remove those outliers, if necessary, compute coefficient of correlation and regression analysis.
+The objectives of this analysis are to understand how to formulate a single predictor linear regression model and to visualize that potential linear relationship. Additionally, this report will be able to compute and interpret the Grubbs to identify any potential outliers, remove those outliers, if necessary, compute coefficient of correlation and regression analysis.
 
 **Data Description of Variables**
 
